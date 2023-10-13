@@ -1,6 +1,44 @@
 /* 追加するCSS */
+.header {
+    background-color: gray;
+}
 
+.post-form-name-input {
+    margin: 10px;
+    width: 600px;
+}
 
+.post-form-message-text {
+    margin: 10px;
+    width: 600px;
+}
+
+body {
+    margin: 30px;
+}
+
+.post {
+    margin: 10px;
+    border: 2px dashed black;
+}
+
+span {
+    margin: 10px;
+    color: white;
+}
+
+.post-name.post-not-edit-input {
+    margin: 10px;
+}
+
+.post-text.post-not-edit-textarea {
+    margin: 10px;
+}
+
+.post-form-submit-button {
+    width: 100px;
+    height: 50px;
+}
 
 /* 投稿に関するCSS */
 .post {
